@@ -21,9 +21,13 @@ public class Main {
         System.out.println("Input y");
         double yp = sc.nextDouble();
 
-        if ((xa - xp)*(yb-ya)-(xb-xa)*(ya-yp) < 0 &&
-        (xb-xp)*(yc-yb)-(xc-xb)*(yb-yp) < 0 && (xc-xp)*(ya-yc)-(xa-xc)*(yc-yp) < 0){
+        double i = (xa - xp)*(yb-ya)-(xb-xa)*(ya-yp);
+        double j = (xb-xp)*(yc-yb)-(xc-xb)*(yb-yp);
+        double k = (xc-xp)*(ya-yc)-(xa-xc)*(yc-yp);
+        if ((i < 0 && j < 0 && k < 0)|| (i > 0 && j > 0 && k > 0)){
             System.out.println("In triangle");
+        } else {
+            System.out.println(" Not in triangle");
         }
     }
 }
