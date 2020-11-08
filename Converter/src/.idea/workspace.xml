@@ -19,19 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d0369a4-a7f8-4fb9-8d31-1caef9b193f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../BinToDec/src/com/gmail/slartua/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/gmail/slartua/ConverterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/gmail/slartua/ConverterModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/gmail/slartua/ConverterView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/gmail/slartua/InputUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/gmail/slartua/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DateMiliSeconds/src/com/gmail/slartua/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ToString/src/com/gmail/slartua/Main.java" afterDir="false" />
+    <list default="true" id="9d0369a4-a7f8-4fb9-8d31-1caef9b193f8" name="Default Changelist" comment="Task1Converter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1604066629308</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task1Converter">
+      <created>1604344027004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604344027005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,26 +90,38 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task1Converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1Converter" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1604340584509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604340584509" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1604342908903">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1604352185882">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604342908903" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1604342908902">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604352185882" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1604352185882">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604342908902" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1604342908902">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604352185882" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1604352185881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604342908902" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1604342908902">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604352185881" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1604352185882">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604342908902" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604352185882" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604344078390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604344078390" />
+    <state x="65" y="0" key="new project wizard" timestamp="1604499660174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604499660174" />
   </component>
 </project>
